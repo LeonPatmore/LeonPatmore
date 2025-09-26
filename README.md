@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
+Backend engineer specializing in Spring Boot and Kotlin, with a strong focus on clean code and scalable design. Passionate about serverless architectures and automation to deliver efficient, modern solutions.
+
 ## Some cool projects 😎
 
 <table>

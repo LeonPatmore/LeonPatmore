@@ -1,6 +1,6 @@
 # Leon Patmore
 
-<a href="https://www.linkedin.com/in/gkos/">
+<a href="https://www.linkedin.com/in/leon-patmore/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:leon.patmore@gmail.com">
